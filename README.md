@@ -17,7 +17,7 @@ I'm interested in a lot of stuff, so here's a quick summary:
 
 [CalendarServer](https://github.com/ItsaMeTuni/calendar-server) - [WIP] A calendar backend, like Google Calendar, but free, open-source, and self hosted (I'm still looking for a name for it)
 
-[Brainfuck+](https://github.com/ItsaMeTuni/brainfuck-plus) - An interpreter for [brainfuck]() with a few extra features
+[Brainfuck+](https://github.com/ItsaMeTuni/brainfuck-plus) - An interpreter for [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) with a few extra features
 
 [gith](https://github.com/ItsaMeTuni/github-helper) - A little GitHub CLI tool for creating repositores I wrote for myself in python
 
