@@ -15,7 +15,7 @@ I'm interested in a lot of stuff, so here's a quick summary:
 
 ### A few projects I made
 
-[CalendarServer](https://github.com/ItsaMeTuni/calendar-server) - [WIP] A calendar backend, like Google Calendar, but free, open-source, and self hosted (I'm still looking for a name for it)
+[CalendarServer](https://github.com/ItsaMeTuni/calendar-server) - [WIP] A calendar backend similar to the Google Calendar API, but free, open-source, and self hosted (I'm still looking for a name for it)
 
 [Brainfuck+](https://github.com/ItsaMeTuni/brainfuck-plus) - An interpreter for [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) with a few extra features
 
