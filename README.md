@@ -3,7 +3,7 @@
 I'm interested in a lot of stuff, so here's a quick summary:
 
 #### What I like to use at the frontend
-- Typescript
+- TypeScript
 - Vue or Svelte
 
 #### What I like to use at the backend
@@ -14,6 +14,8 @@ I'm interested in a lot of stuff, so here's a quick summary:
 - Docker
 
 ### A few projects I made
+
+[Top Typer](https://toptyper.lucasantunes.me) - A simple typing practice website, similar to typeracer or 10fastfingers
 
 [CalendarServer](https://github.com/ItsaMeTuni/calendar-server) - [WIP] A calendar backend similar to the Google Calendar API, but free, open-source, and self hosted (I'm still looking for a name for it)
 
