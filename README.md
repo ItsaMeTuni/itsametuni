@@ -5,6 +5,7 @@ I'm interested in a lot of stuff, so here's a quick summary:
 #### What I like to use at the frontend
 - TypeScript
 - Vue or Svelte
+- Flutter
 
 #### What I like to use at the backend
 - Rust
