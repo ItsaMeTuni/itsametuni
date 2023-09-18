@@ -1,27 +1,22 @@
-## Hi, I'm Lucas :)
+# Hi!
 
-I'm interested in a lot of stuff, so here's a quick summary:
+I'm a fullstack developer.
 
-#### What I like to use at the frontend
+With almost **10 years** of experience I have professionally worked and played around (in hobby projects) with a vast array of technologies, ranging all the way from game development, to web development, to infrastructure management, to electronics. I have co-founded a couple startups and I'm currently co-founder and CTO at AnoniMe, an anonymous social network for Brazilian university students, and a CompSci undergrad. I'm also very interested in system design and have been recently getting my feet wet in AI and machine learning.
+
+The tech stack I enjoy using the most:
 - TypeScript
-- Vue or Svelte
-- Flutter
+- Node.js/Bun
+- React
+- React Native
+- AWS, Docker, Kubernetes
+- PostgreSQL and Redis
+- Nest.js and Prisma
 
-#### What I like to use at the backend
+Some other stuff I know:
+- Python
+- Go
 - Rust
-- [Rocket](https://rocket.rs)
-- PostgreSQL
-- [FusionAuth](https://fusionauth.io) to handle authentication
-- Docker
-
-### A few projects I made
-
-[Top Typer](https://toptyper.lucasantunes.me) - A simple typing practice website, similar to typeracer or 10fastfingers
-
-[CalendarServer](https://github.com/ItsaMeTuni/calendar-server) - [WIP] A calendar backend similar to the Google Calendar API, but free, open-source, and self hosted (I'm still looking for a name for it)
-
-[Brainfuck+](https://github.com/ItsaMeTuni/brainfuck-plus) - An interpreter for [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) with a few extra features
-
-[gith](https://github.com/ItsaMeTuni/github-helper) - A little GitHub CLI tool for creating repositores I wrote for myself in python
-
-[stejs](https://github.com/ItsaMeTuni/stejs) - A **S**imple **T**emplate **E**ngine for **J**ava**S**cript. It also has a webpack [loader](https://github.com/ItsaMeTuni/stejs-loader)
+- UE4 (C++ and Blueprints)
+- Unity3D
+- C
