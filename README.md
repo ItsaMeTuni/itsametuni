@@ -6,7 +6,7 @@ With almost **10 years** of experience I have professionally worked and played a
 
 The tech stack I enjoy using the most:
 - TypeScript
-- Node.js/Bun
+- Node.js
 - React
 - React Native
 - AWS, Docker, Kubernetes
